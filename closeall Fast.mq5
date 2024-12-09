@@ -2,6 +2,7 @@
 //|                                                        00o00.mq5 |
 //|                                  Copyright 2024, MetaQuotes Ltd. |
 //|                                             https://www.mql5.com |
+//|         修改了setStopLossForAllPositions(price_SL)，使可以设盈利损 |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2024, MetaQuotes Ltd."
 #property link      "https://www.mql5.com"
